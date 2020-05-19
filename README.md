@@ -1,0 +1,2 @@
+# termux
+Earn free money
